@@ -1,6 +1,6 @@
 # GERFSOLVE
 
-is a Mathematica paclet that solves nonlinear integral order partial differential equations using the GERF (generalized exponential rational function) expansion technique. For more info on the method, see [10.1016/j.rinp.2023.106298](https://doi.org/10.1016/j.rinp.2023.106298).
+is a Mathematica paclet that solves nonlinear integral order partial differential equations using the GERF (generalized exponential rational function) expansion technique. For more info on the method, see [10.1016/j.rinp.2023.106298](https://doi.org/10.1016/j.rinp.2023.106298). To learn more about the paclet, visit the homepage at Wolfram repository: [https://resources.wolframcloud.com/PacletRepository/resources/Taggar/GERF/](https://resources.wolframcloud.com/PacletRepository/resources/Taggar/GERF/)
 
 To install the package, run
 
