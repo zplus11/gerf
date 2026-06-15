@@ -22,7 +22,7 @@ Options[GERFSolve] = {
 
 GERFSolve[ieqns_List, us : {(_[vars__]) ..}, opts : OptionsPattern[]] :=
 	Module[
-		{w},
+		{w, A, R}, (* initialise A,R here so each trial solution has same instance of R *)
 		
 		$GERFState = <|
 			"OriginalEquation" -> ieqns,
@@ -41,10 +41,10 @@ GERFSolve[ieqns_List, us : {(_[vars__]) ..}, opts : OptionsPattern[]] :=
 			"AuxiliaryFunction" -> None,
 			"Eta" -> None,
 			"WaveConstant" -> AssociationMap[w, {vars}],
-			"WCH" -> w,
+			"WCH" -> w, (* ad hoc provision *)
 			"BalanceConstant" -> None,
-			"SymbolicRationalHead" -> None,
-			"TrialSolutionCoefficient" -> None
+			"SymbolicRationalHead" -> R,
+			"TrialSolutionCoefficient" -> A
 		|>;
 		
 		(* standardise the equations *)
@@ -69,10 +69,12 @@ GERFSolve[ieqns_List, us : {(_[vars__]) ..}, opts : OptionsPattern[]] :=
 				If[$GERFState["Options"] @ "BalanceConstant" === Automatic,
 					BalanceConstant[],
 					$GERFState["Options"] @ "BalanceConstant"]];
-			Print[$GERFState @ "BalanceConstant"];
-			(* and validate it
-			If[!IntegerQ[$GERFState @ "BalanceConstant"] || $GERFState @ "BalanceConstant" <= 0,
-				Throw @ $Failed]; *)
+			(* and validate it *)
+			If[
+				!MatchQ[Values @ $GERFState["BalanceConstant"], {_Integer ..}] ||
+					!AllTrue[Values @ $GERFState["BalanceConstant"], Positive],
+				Message[GERFSolve::GERFPackageError, "Valid balance constants could not be calculated. Consider providing the values using \"BalanceConstant\" option."];
+				Throw[$Failed]];
 			(* update state with the trial solutions as functions of wave transform variable, eta *)
 			$GERFState @ "TrialSolution" = AssociationMap[
 				TrialSolution, Range @ $GERFState @ "Length"];

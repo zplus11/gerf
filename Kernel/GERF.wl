@@ -12,7 +12,8 @@ BeginPackage["Taggar`GERF`"];
 
 
 GERFSolve::usage =
-	"GERFSolve[eqn, u[x, t]] solves the given eqn in u[x, t] using GERF expansion technique."
+	"GERFSolve[eqn, u[x, t]] solves the given eqn in u[x, t] using GERF expansion technique.
+GERFSolve[{eqn1, eqn2, ..., eqnk}, {u1[x, t], ..., uk[x, t]}] solves the given {eqn1, eqn2, ..., eqnj} in u1[x, t], ..., uk[x, t]} using GERF expansion technique.";
 
 
 Begin["`Private`"];

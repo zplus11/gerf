@@ -35,7 +35,7 @@ Cell["", "FileManagerTopSpacer",
  CellGroupingRules->{"SectionGrouping", 99},
  TaggingRules->{},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->191051652,ExpressionUUID->"cff542aa-8217-5c4c-ae45-ac24630b6189"],
+ CellID->191051652,ExpressionUUID->"2029e103-036b-9a48-9973-4cbf674d03e6"],
 
 Cell[CellGroupData[{
 
@@ -60,7 +60,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"8ef78d21-5ce9-8247-b1c1-b01cef1fc277"]], \
+   "Text"}]],ExpressionUUID->"e1503cc0-79c7-1c42-b054-d86909642a22"]], \
 "FileManagerDirectory",
  CellMargins->{{Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 100},
@@ -71,7 +71,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDocumentationIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->196540504,ExpressionUUID->"ec0a22ad-8538-8846-abc7-00e83943f294"],
+ CellID->196540504,ExpressionUUID->"ded61376-e93f-7246-b795-22fb699d9d41"],
 
 Cell[CellGroupData[{
 
@@ -96,7 +96,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation", "English"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"a83e42a9-e2b2-014b-a054-d5328dc670ea"]], \
+   "Text"}]],ExpressionUUID->"6d902c53-4835-9548-a7c4-126897db7770"]], \
 "FileManagerDirectory",
  CellMargins->{{23 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 110},
@@ -107,7 +107,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->340031333,ExpressionUUID->"048ef60c-6d27-584f-b51e-e7ae8f4bc753"],
+ CellID->340031333,ExpressionUUID->"6385a7ce-268d-e648-8590-2440b481bb44"],
 
 Cell[TextData[Cell[BoxData[
  InterpretationBox[
@@ -130,7 +130,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation", "English", "Guides"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"d9fb9516-3553-f040-9512-8eaeb2702f5b"]], \
+   "Text"}]],ExpressionUUID->"b29e1081-ce9d-2a4d-b3e6-5abf5214daff"]], \
 "FileManagerDirectory",
  CellMargins->{{46 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 120},
@@ -141,7 +141,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerEmptyDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->111562044,ExpressionUUID->"306bbf5d-a72d-6647-9d1d-667e2fdc4aad"],
+ CellID->111562044,ExpressionUUID->"4a83dc84-f570-d140-9abb-59aae235ea12"],
 
 Cell[CellGroupData[{
 
@@ -166,7 +166,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation", "English", "ReferencePages"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"c9394a5c-a022-1643-8189-25586bc6b8ee"]], \
+   "Text"}]],ExpressionUUID->"1816448d-15d8-f848-8787-f25a8cb2cd2a"]], \
 "FileManagerDirectory",
  CellMargins->{{46 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 120},
@@ -177,7 +177,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->91365056,ExpressionUUID->"693d478e-30a5-244a-aa1a-3676978c12c1"],
+ CellID->91365056,ExpressionUUID->"da773fa2-7bae-0e46-8b98-f5d78a8cc96c"],
 
 Cell[CellGroupData[{
 
@@ -203,7 +203,7 @@ Cell[TextData[Cell[BoxData[
     "Symbols"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"e7b74409-0921-7047-9a29-1aa81d8a2fed"]], \
+   "Text"}]],ExpressionUUID->"e3e9e261-8a6d-ae4c-8bf6-7af0615c2fe6"]], \
 "FileManagerDirectory",
  CellMargins->{{69 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 130},
@@ -214,7 +214,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->206744,ExpressionUUID->"8d969d4d-d985-aa46-9498-aaa48fd3a3c7"],
+ CellID->206744,ExpressionUUID->"70e08049-8abd-8541-95a3-ac135ba3646d"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -240,7 +240,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->225382538,ExpressionUUID->"e58d19d8-9360-904e-8687-f2a5dadcf0ba"]
+ CellID->225382538,ExpressionUUID->"15b7b398-b161-2b4e-b836-75f406cb30c8"]
 }, Open  ]]
 }, Open  ]],
 
@@ -265,7 +265,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation", "English", "Tutorials"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"e90ad1f9-ac46-8844-903f-b487f3b31e6b"]], \
+   "Text"}]],ExpressionUUID->"d4defae0-061f-8a47-86d9-e7f9f43a6bc0"]], \
 "FileManagerDirectory",
  CellMargins->{{46 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 120},
@@ -276,7 +276,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerEmptyDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->26531234,ExpressionUUID->"3882fd61-3d34-8842-afd9-13cd89fea24d"]
+ CellID->26531234,ExpressionUUID->"3dc13a09-9a97-3b44-a42b-f710d0cc1dc9"]
 }, Open  ]]
 }, Open  ]],
 
@@ -303,7 +303,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "img"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"0c5049c0-a241-6142-8bb3-3073a5915675"]], \
+   "Text"}]],ExpressionUUID->"d8fce734-0d48-6a45-86db-379e8c497c70"]], \
 "FileManagerDirectory",
  CellMargins->{{Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 100},
@@ -314,7 +314,31 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->203811220,ExpressionUUID->"44e120ea-6789-2947-9959-b4108e37d0ef"],
+ CellID->203811220,ExpressionUUID->"dec0dc41-5848-6e4c-860d-75e867d56104"],
+
+Cell[BoxData[
+ InterpretationBox[
+  TagBox[
+   TemplateBox[{"\"gerf.png\"", 
+     FileNameJoin[{
+       NotebookDirectory[], "img", "gerf.png"}]},
+    "FileManagerFileOpenerTemplate"],
+   Annotation[#, 
+    DefinitionNotebookClient`TemplateCells`PackagePrivate`fileDepth[1]]& ],
+  FileNameJoin[{
+    NotebookDirectory[], "img", "gerf.png"}],
+  BoxID -> "FileTreePath",
+  BaseStyle->{"Text"}]], "FileManagerFile",
+ CellMargins->{{23 + Inherited, Inherited}, {Inherited, Inherited}},
+ CellGroupingRules->{"SectionGrouping", 110},
+ TaggingRules->{},
+ CellFrameLabels->{{
+    Cell[
+     BoxData[
+      TemplateBox[{}, "FileManagerPNGIconTemplate"]], Background -> None], 
+    Inherited}, {Inherited, Inherited}},
+ CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
+ CellID->758083745,ExpressionUUID->"671bffe0-0f96-6f43-9da1-17bb03a0e50e"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -338,7 +362,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerPNGIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->404472183,ExpressionUUID->"f49a9b4c-7ac8-554a-a6cb-bbf89c481775"],
+ CellID->404472183,ExpressionUUID->"e17f4ce9-011b-0c44-8cb6-2f3ac55dc140"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -362,7 +386,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerPNGIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->11620709,ExpressionUUID->"b43ced44-1731-d341-a07d-d41168edca3c"]
+ CellID->11620709,ExpressionUUID->"019f34a2-710d-d147-b3e7-7a05127117e4"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -388,7 +412,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Kernel"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"62ea6e75-4a46-3046-985c-c62e43e3b2c1"]], \
+   "Text"}]],ExpressionUUID->"dacdfe67-02af-8942-886b-87690ba01f59"]], \
 "FileManagerDirectory",
  CellMargins->{{Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 100},
@@ -399,7 +423,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerKernelIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->463196217,ExpressionUUID->"c9613d16-9af8-824f-bb2d-5532ecccdec3"],
+ CellID->463196217,ExpressionUUID->"c5134f78-d132-4b43-a390-6c7f9088aa45"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -423,7 +447,79 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerWLIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->140795941,ExpressionUUID->"6baea95f-5343-ee42-83de-cc2f844ba772"]
+ CellID->140795941,ExpressionUUID->"dc38be47-e8ad-4647-b24f-63060416c4b7"],
+
+Cell[BoxData[
+ InterpretationBox[
+  TagBox[
+   TemplateBox[{"\"Init.wl\"", 
+     FileNameJoin[{
+       NotebookDirectory[], "Kernel", "Init.wl"}]},
+    "FileManagerFileOpenerTemplate"],
+   Annotation[#, 
+    DefinitionNotebookClient`TemplateCells`PackagePrivate`fileDepth[1]]& ],
+  FileNameJoin[{
+    NotebookDirectory[], "Kernel", "Init.wl"}],
+  BoxID -> "FileTreePath",
+  BaseStyle->{"Text"}]], "FileManagerFile",
+ CellMargins->{{23 + Inherited, Inherited}, {Inherited, Inherited}},
+ CellGroupingRules->{"SectionGrouping", 110},
+ TaggingRules->{},
+ CellFrameLabels->{{
+    Cell[
+     BoxData[
+      TemplateBox[{}, "FileManagerWLIconTemplate"]], Background -> None], 
+    Inherited}, {Inherited, Inherited}},
+ CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
+ CellID->338670834,ExpressionUUID->"529603bf-615c-d140-8224-e94ab74e6453"],
+
+Cell[BoxData[
+ InterpretationBox[
+  TagBox[
+   TemplateBox[{"\"Solver.wl\"", 
+     FileNameJoin[{
+       NotebookDirectory[], "Kernel", "Solver.wl"}]},
+    "FileManagerFileOpenerTemplate"],
+   Annotation[#, 
+    DefinitionNotebookClient`TemplateCells`PackagePrivate`fileDepth[1]]& ],
+  FileNameJoin[{
+    NotebookDirectory[], "Kernel", "Solver.wl"}],
+  BoxID -> "FileTreePath",
+  BaseStyle->{"Text"}]], "FileManagerFile",
+ CellMargins->{{23 + Inherited, Inherited}, {Inherited, Inherited}},
+ CellGroupingRules->{"SectionGrouping", 110},
+ TaggingRules->{},
+ CellFrameLabels->{{
+    Cell[
+     BoxData[
+      TemplateBox[{}, "FileManagerWLIconTemplate"]], Background -> None], 
+    Inherited}, {Inherited, Inherited}},
+ CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
+ CellID->767825206,ExpressionUUID->"42646762-082f-5f44-bd87-ae6cba15b54c"],
+
+Cell[BoxData[
+ InterpretationBox[
+  TagBox[
+   TemplateBox[{"\"Utils.wl\"", 
+     FileNameJoin[{
+       NotebookDirectory[], "Kernel", "Utils.wl"}]},
+    "FileManagerFileOpenerTemplate"],
+   Annotation[#, 
+    DefinitionNotebookClient`TemplateCells`PackagePrivate`fileDepth[1]]& ],
+  FileNameJoin[{
+    NotebookDirectory[], "Kernel", "Utils.wl"}],
+  BoxID -> "FileTreePath",
+  BaseStyle->{"Text"}]], "FileManagerFile",
+ CellMargins->{{23 + Inherited, Inherited}, {Inherited, Inherited}},
+ CellGroupingRules->{"SectionGrouping", 110},
+ TaggingRules->{},
+ CellFrameLabels->{{
+    Cell[
+     BoxData[
+      TemplateBox[{}, "FileManagerWLIconTemplate"]], Background -> None], 
+    Inherited}, {Inherited, Inherited}},
+ CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
+ CellID->269912861,ExpressionUUID->"75a8e665-1cc5-e84c-b1de-178016a5cf1c"]
 }, Open  ]],
 
 Cell[BoxData[
@@ -448,7 +544,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerUnknownIconTemplate"]], Background -> None],
      Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->106469330,ExpressionUUID->"e2f48bd9-a32a-014e-b4a0-e8cdddace04b"],
+ CellID->106469330,ExpressionUUID->"5185d5a6-9c99-1d40-ac27-1dc0ae5b3fb7"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -472,7 +568,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerPacletInfoIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->438250012,ExpressionUUID->"89990640-bf36-f94e-9190-55509ecb0ef4"],
+ CellID->438250012,ExpressionUUID->"37499a70-cae2-6840-b461-a265f08b119f"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -496,7 +592,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerTXTIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->253064076,ExpressionUUID->"5f5a0fb6-102b-d345-be55-82d76022cdf1"],
+ CellID->253064076,ExpressionUUID->"233bb4df-bdae-3646-a4cc-2a0828d4a8e1"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -520,13 +616,13 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->753771003,ExpressionUUID->"e226bd04-891d-3447-8d97-27d143c5d573"],
+ CellID->753771003,ExpressionUUID->"d2991fdd-2bdc-c041-8e95-314cb49c6a6a"],
 
 Cell["", "FileManagerBottomSpacer",
  CellGroupingRules->{"SectionGrouping", 100},
  TaggingRules->{},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->623059552,ExpressionUUID->"1c851a05-b4c2-fe48-bee7-3e2915bf73a5"]
+ CellID->623059552,ExpressionUUID->"3cf9f708-d8e0-f742-93e0-79113cc421a5"]
 }, Open  ]]
 }, Open  ]],
 
@@ -964,7 +1060,7 @@ Cell[BoxData[
    RowBox[{"NotebookDirectory", "[", "]"}], "]"}], ";"}]], "Input", "Excluded",
  TaggingRules->{},
  InitializationCell->True,
- CellLabel->"In[27]:=",
+ CellLabel->"In[218]:=",
  CellID->264453224,ExpressionUUID->"5b4bb05a-5c1a-334f-8f9a-0a645b5bccc4"],
 
 Cell[BoxData[
@@ -973,7 +1069,7 @@ Cell[BoxData[
   ";"}]], "Input", "Excluded",
  TaggingRules->{},
  InitializationCell->True,
- CellLabel->"In[28]:=",
+ CellLabel->"In[219]:=",
  CellID->814364577,ExpressionUUID->"5b1871b9-2022-524f-aeaf-4592c8932f13"]
 }, Open  ]],
 
@@ -1021,7 +1117,7 @@ Cell[BoxData[
        RowBox[{"x", ",", "t"}], "]"}]}]}]}], "==", "0"}]}]], "Input",
  TaggingRules->{},
  CellChangeTimes->{{3.983934301174406*^9, 3.983934332621231*^9}},
- CellLabel->"In[29]:=",
+ CellLabel->"In[220]:=",
  CellID->400924941,ExpressionUUID->"d9d74f0d-c9b4-974f-aaf4-e5c7e637b182"],
 
 Cell[BoxData[
@@ -1057,9 +1153,9 @@ Cell[BoxData[
      RowBox[{"x", ",", "t"}], "]"}]}]}], "\[Equal]", "0"}]], "Output",
  TaggingRules->{},
  CellChangeTimes->{3.983934339076807*^9, 3.983938590528637*^9, 
-  3.9891140955119057`*^9},
- CellLabel->"Out[29]=",
- CellID->239167519,ExpressionUUID->"9c2530bf-fd20-b048-914e-f285a2ef7f49"]
+  3.9891140955119057`*^9, 3.990518123058031*^9},
+ CellLabel->"Out[220]=",
+ CellID->12384260,ExpressionUUID->"4564ff3a-ab0c-bf48-95e4-4a77603e4603"]
 }, Open  ]],
 
 Cell["Solve it using GERF method:", "Text",
@@ -1079,25 +1175,12 @@ Cell[BoxData[
  TaggingRules->{},
  CellChangeTimes->{{3.9839342771541634`*^9, 3.9839342792457447`*^9}, {
    3.9839343479485207`*^9, 3.9839343611612587`*^9}, 3.9839355908530807`*^9},
- CellLabel->"In[30]:=",
+ CellLabel->"In[221]:=",
  CellID->21899390,ExpressionUUID->"6d5f5d31-05a6-1948-9265-1dbf471a6149"],
 
 Cell[BoxData[
  RowBox[{"{", 
-  RowBox[{
-   RowBox[{
-    RowBox[{"u", "[", 
-     RowBox[{"x", ",", "t"}], "]"}], "\[Rule]", 
-    SubscriptBox["\[ScriptCapitalA]", "0"]}], ",", 
-   RowBox[{
-    RowBox[{"u", "[", 
-     RowBox[{"x", ",", "t"}], "]"}], "\[Rule]", 
-    RowBox[{
-     FractionBox[
-      RowBox[{"5", " ", 
-       SubscriptBox["\[ScriptCapitalA]", 
-        RowBox[{"-", "1"}]]}], "2"], "+", 
-     SubscriptBox["\[ScriptCapitalA]", "0"]}]}], ",", 
+  RowBox[{"{", 
    RowBox[{
     RowBox[{"u", "[", 
      RowBox[{"x", ",", "t"}], "]"}], "\[Rule]", 
@@ -1119,15 +1202,15 @@ Cell[BoxData[
               SubscriptBox["\[ScriptCapitalA]", "0"]}], " ", 
              SubscriptBox["\[ScriptW]", "x"]}], "-", 
             RowBox[{"\[Nu]", " ", 
-             SubsuperscriptBox["\[ScriptW]", "x", "2"]}]}], 
-           ")"}]}]}]]}]]}]}]}], "}"}]], "Output",
+             SubsuperscriptBox["\[ScriptW]", "x", "2"]}]}], ")"}]}]}]]}]]}]}],
+    "}"}], "}"}]], "Output",
  TaggingRules->{},
  CellChangeTimes->{{3.9839343619615536`*^9, 3.983934391769226*^9}, 
    3.983935199312784*^9, 3.983935461857771*^9, 3.9839354924851475`*^9, {
    3.9839355677843113`*^9, 3.983935592343237*^9}, 3.983936031288187*^9, 
-   3.9839385934490967`*^9, 3.9891140983088856`*^9},
- CellLabel->"Out[30]=",
- CellID->673205704,ExpressionUUID->"777e87d1-b755-3241-b841-82fb614ff1e0"]
+   3.9839385934490967`*^9, 3.9891140983088856`*^9, 3.9905181241539993`*^9},
+ CellLabel->"Out[221]=",
+ CellID->358948312,ExpressionUUID->"26cd5c52-7b50-1347-9df4-1123dba30e77"]
 }, Open  ]],
 
 Cell["Obtain the solution sets as well:", "Text",
@@ -1151,76 +1234,32 @@ Cell[BoxData[
    3.9839365194834557`*^9}, {3.983936562808464*^9, 3.983936568452091*^9}, {
    3.983936836153595*^9, 3.983936842617111*^9}, {3.9891141238944187`*^9, 
    3.9891141242071724`*^9}},
- CellLabel->"In[32]:=",
+ CellLabel->"In[222]:=",
  CellID->158129589,ExpressionUUID->"7e9b5298-23d1-c848-9190-0493539f5550"],
 
 Cell[BoxData[
  RowBox[{"{", 
-  RowBox[{
-   RowBox[{"{", 
-    RowBox[{
-     RowBox[{"{", 
-      RowBox[{
-       RowBox[{
-        SubscriptBox["\[ScriptCapitalA]", 
-         RowBox[{"-", "1"}]], "\[Rule]", "0"}], ",", 
-       RowBox[{
-        SubscriptBox["\[ScriptCapitalA]", "1"], "\[Rule]", "0"}], ",", 
-       RowBox[{
-        SubscriptBox["\[ScriptW]", "t"], "\[Rule]", 
-        RowBox[{
-         SubscriptBox["\[ScriptW]", "x"], " ", 
-         RowBox[{"(", 
-          RowBox[{
-           RowBox[{"-", 
-            SubscriptBox["\[ScriptCapitalA]", "0"]}], "+", 
-           RowBox[{"\[Nu]", " ", 
-            SubscriptBox["\[ScriptW]", "x"]}]}], ")"}]}]}]}], "}"}], ",", 
+  RowBox[{"{", 
+   RowBox[{
+    RowBox[{"{", 
      RowBox[{
-      RowBox[{"u", "[", 
-       RowBox[{"x", ",", "t"}], "]"}], "\[Rule]", 
-      SubscriptBox["\[ScriptCapitalA]", "0"]}]}], "}"}], ",", 
-   RowBox[{"{", 
-    RowBox[{
-     RowBox[{"{", 
       RowBox[{
-       RowBox[{
-        SubscriptBox["\[ScriptCapitalA]", "1"], "\[Rule]", 
-        SubscriptBox["\[ScriptCapitalA]", 
-         RowBox[{"-", "1"}]]}], ",", 
-       RowBox[{
-        SubscriptBox["\[ScriptW]", "t"], "\[Rule]", "0"}], ",", 
-       RowBox[{
-        SubscriptBox["\[ScriptW]", "x"], "\[Rule]", "0"}]}], "}"}], ",", 
-     RowBox[{
-      RowBox[{"u", "[", 
-       RowBox[{"x", ",", "t"}], "]"}], "\[Rule]", 
+       SubscriptBox["\[ScriptCapitalA]", 
+        RowBox[{"-", "1"}]], "\[Rule]", "0"}], ",", 
       RowBox[{
-       FractionBox[
-        RowBox[{"5", " ", 
-         SubscriptBox["\[ScriptCapitalA]", 
-          RowBox[{"-", "1"}]]}], "2"], "+", 
-       SubscriptBox["\[ScriptCapitalA]", "0"]}]}]}], "}"}], ",", 
-   RowBox[{"{", 
-    RowBox[{
-     RowBox[{"{", 
+       SubscriptBox["\[ScriptCapitalA]", "1"], "\[Rule]", 
+       RowBox[{"2", " ", "\[Nu]", " ", 
+        SubscriptBox["\[ScriptW]", "x"]}]}], ",", 
       RowBox[{
+       SubscriptBox["\[ScriptW]", "t"], "\[Rule]", 
        RowBox[{
-        SubscriptBox["\[ScriptCapitalA]", 
-         RowBox[{"-", "1"}]], "\[Rule]", "0"}], ",", 
-       RowBox[{
-        SubscriptBox["\[ScriptCapitalA]", "1"], "\[Rule]", 
-        RowBox[{"2", " ", "\[Nu]", " ", 
-         SubscriptBox["\[ScriptW]", "x"]}]}], ",", 
-       RowBox[{
-        SubscriptBox["\[ScriptW]", "t"], "\[Rule]", 
         RowBox[{
-         RowBox[{
-          RowBox[{"-", 
-           SubscriptBox["\[ScriptCapitalA]", "0"]}], " ", 
-          SubscriptBox["\[ScriptW]", "x"]}], "-", 
-         RowBox[{"\[Nu]", " ", 
-          SubsuperscriptBox["\[ScriptW]", "x", "2"]}]}]}]}], "}"}], ",", 
+         RowBox[{"-", 
+          SubscriptBox["\[ScriptCapitalA]", "0"]}], " ", 
+         SubscriptBox["\[ScriptW]", "x"]}], "-", 
+        RowBox[{"\[Nu]", " ", 
+         SubsuperscriptBox["\[ScriptW]", "x", "2"]}]}]}]}], "}"}], ",", 
+    RowBox[{"{", 
      RowBox[{
       RowBox[{"u", "[", 
        RowBox[{"x", ",", "t"}], "]"}], "\[Rule]", 
@@ -1243,7 +1282,7 @@ Cell[BoxData[
                SubscriptBox["\[ScriptW]", "x"]}], "-", 
               RowBox[{"\[Nu]", " ", 
                SubsuperscriptBox["\[ScriptW]", "x", "2"]}]}], 
-             ")"}]}]}]]}]]}]}]}], "}"}]}], "}"}]], "Output",
+             ")"}]}]}]]}]]}]}], "}"}]}], "}"}], "}"}]], "Output",
  TaggingRules->{},
  CellChangeTimes->{
   3.9839356046127415`*^9, 3.9839360332859592`*^9, {3.9839362547361145`*^9, 
@@ -1252,9 +1291,9 @@ Cell[BoxData[
    3.9839365607154274`*^9, 3.9839365692192764`*^9}, {3.983936623756386*^9, 
    3.98393663112916*^9}, {3.983936747774954*^9, 3.9839367718174973`*^9}, 
    3.9839368433083897`*^9, 3.9839385955392723`*^9, {3.989114109719511*^9, 
-   3.9891141247712517`*^9}},
- CellLabel->"Out[32]=",
- CellID->260143853,ExpressionUUID->"61516e85-9f32-fa4e-a597-9e5e781c9435"]
+   3.9891141247712517`*^9}, 3.9905181268196926`*^9},
+ CellLabel->"Out[222]=",
+ CellID->34585385,ExpressionUUID->"2774a457-39cd-274d-8263-6287ff018df0"]
 }, Open  ]],
 
 Cell["Verify that the solutions are valid:", "Text",
@@ -1268,7 +1307,7 @@ Cell[BoxData[{
  RowBox[{
   RowBox[{"pick", "=", 
    RowBox[{"sols", "[", 
-    RowBox[{"[", "2", "]"}], "]"}]}], ";"}], "\[IndentingNewLine]", 
+    RowBox[{"[", "1", "]"}], "]"}]}], ";"}], "\[IndentingNewLine]", 
  RowBox[{"burgers", "/.", " ", 
   RowBox[{"u", "->", 
    RowBox[{"Function", "[", 
@@ -1277,19 +1316,21 @@ Cell[BoxData[{
       RowBox[{"x", ",", "t"}], "}"}], ",", 
      RowBox[{"pick", "[", 
       RowBox[{"[", 
-       RowBox[{"2", ",", "2"}], "]"}], "]"}]}], "]"}]}]}]}], "Input",
+       RowBox[{"2", ",", "1", ",", "2"}], "]"}], "]"}]}], "]"}]}]}]}], "Input",
  TaggingRules->{},
  CellChangeTimes->{{3.9839368451572914`*^9, 3.983937001289259*^9}, {
-  3.983937045413599*^9, 3.98393704943165*^9}},
- CellLabel->"In[33]:=",
+  3.983937045413599*^9, 3.98393704943165*^9}, {3.990518130129116*^9, 
+  3.9905181990103645`*^9}},
+ CellLabel->"In[246]:=",
  CellID->448948135,ExpressionUUID->"7a10aad5-368e-ef45-9628-c7acef220c2e"],
 
 Cell[BoxData["True"], "Output",
  TaggingRules->{},
  CellChangeTimes->{{3.983936872534033*^9, 3.983937002041767*^9}, {
-   3.9839370466665897`*^9, 3.9839370499345894`*^9}, 3.9891141323180885`*^9},
- CellLabel->"Out[34]=",
- CellID->636189363,ExpressionUUID->"88e3d181-1e98-c548-9d3d-9233bbb5060e"]
+   3.9839370466665897`*^9, 3.9839370499345894`*^9}, 3.9891141323180885`*^9, {
+   3.990518155201599*^9, 3.9905181995270424`*^9}},
+ CellLabel->"Out[247]=",
+ CellID->7406867,ExpressionUUID->"5c001d06-647b-d246-a451-1657a24c603a"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -1354,7 +1395,7 @@ Cell[BoxData[
        RowBox[{"x", ",", "y", ",", "t"}], "]"}]}]}], "==", "0"}]}], 
   ";"}]], "Input",
  TaggingRules->{},
- CellLabel->"In[35]:=",
+ CellLabel->"In[248]:=",
  CellID->477721499,ExpressionUUID->"896008dd-3868-a341-82fa-35d16ddcb562"],
 
 Cell["Solve it:", "Text",
@@ -1374,62 +1415,61 @@ Cell[BoxData[
  CellChangeTimes->{{3.983935675348982*^9, 3.983935680272434*^9}, {
   3.9839358621555157`*^9, 3.983935866489809*^9}, {3.9839360139207897`*^9, 
   3.983936014046633*^9}, {3.983937085897793*^9, 3.983937086603039*^9}},
- CellLabel->"In[36]:=",
+ CellLabel->"In[249]:=",
  CellID->92882555,ExpressionUUID->"46bb34b9-87f4-b546-8424-9e7633d184b3"],
 
 Cell[BoxData[
  RowBox[{"{", 
   RowBox[{
-   RowBox[{
-    RowBox[{"u", "[", 
-     RowBox[{"x", ",", "y", ",", "t"}], "]"}], "\[Rule]", 
-    SubscriptBox["\[ScriptCapitalA]", "0"]}], ",", 
-   RowBox[{
-    RowBox[{"u", "[", 
-     RowBox[{"x", ",", "y", ",", "t"}], "]"}], "\[Rule]", 
+   RowBox[{"{", 
     RowBox[{
-     SubscriptBox["\[ScriptCapitalA]", "0"], "-", 
-     FractionBox[
-      RowBox[{"2", " ", 
-       SubscriptBox["\[ScriptW]", "x"]}], 
-      RowBox[{"1", "+", 
-       SuperscriptBox["\[ExponentialE]", 
-        RowBox[{
-         RowBox[{"x", " ", 
-          SubscriptBox["\[ScriptW]", "x"]}], "+", 
-         RowBox[{"y", " ", 
-          SubscriptBox["\[ScriptW]", "y"]}], "-", 
-         RowBox[{"t", " ", 
-          SubsuperscriptBox["\[ScriptW]", "x", "2"], " ", 
-          SubscriptBox["\[ScriptW]", "y"]}]}]]}]]}]}], ",", 
-   RowBox[{
-    RowBox[{"u", "[", 
-     RowBox[{"x", ",", "y", ",", "t"}], "]"}], "\[Rule]", 
-    RowBox[{
-     FractionBox[
-      SubscriptBox["\[ScriptCapitalA]", 
-       RowBox[{"-", "1"}]], 
-      RowBox[{"1", "+", 
-       SuperscriptBox["\[ExponentialE]", 
-        RowBox[{"x", " ", 
-         SubscriptBox["\[ScriptW]", "x"]}]]}]], "+", 
+     RowBox[{"u", "[", 
+      RowBox[{"x", ",", "y", ",", "t"}], "]"}], "\[Rule]", 
      RowBox[{
-      RowBox[{"(", 
+      SubscriptBox["\[ScriptCapitalA]", "0"], "-", 
+      FractionBox[
+       RowBox[{"2", " ", 
+        SubscriptBox["\[ScriptW]", "x"]}], 
+       RowBox[{"1", "+", 
+        SuperscriptBox["\[ExponentialE]", 
+         RowBox[{
+          RowBox[{"x", " ", 
+           SubscriptBox["\[ScriptW]", "x"]}], "+", 
+          RowBox[{"y", " ", 
+           SubscriptBox["\[ScriptW]", "y"]}], "-", 
+          RowBox[{"t", " ", 
+           SubsuperscriptBox["\[ScriptW]", "x", "2"], " ", 
+           SubscriptBox["\[ScriptW]", "y"]}]}]]}]]}]}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"u", "[", 
+      RowBox[{"x", ",", "y", ",", "t"}], "]"}], "\[Rule]", 
+     RowBox[{
+      FractionBox[
+       SubscriptBox["\[ScriptCapitalA]", 
+        RowBox[{"-", "1"}]], 
        RowBox[{"1", "+", 
         SuperscriptBox["\[ExponentialE]", 
          RowBox[{"x", " ", 
-          SubscriptBox["\[ScriptW]", "x"]}]]}], ")"}], " ", 
-      SubscriptBox["\[ScriptCapitalA]", 
-       RowBox[{"-", "1"}]]}], "+", 
-     SubscriptBox["\[ScriptCapitalA]", "0"]}]}]}], "}"}]], "Output",
+          SubscriptBox["\[ScriptW]", "x"]}]]}]], "+", 
+      RowBox[{
+       RowBox[{"(", 
+        RowBox[{"1", "+", 
+         SuperscriptBox["\[ExponentialE]", 
+          RowBox[{"x", " ", 
+           SubscriptBox["\[ScriptW]", "x"]}]]}], ")"}], " ", 
+       SubscriptBox["\[ScriptCapitalA]", 
+        RowBox[{"-", "1"}]]}], "+", 
+      SubscriptBox["\[ScriptCapitalA]", "0"]}]}], "}"}]}], "}"}]], "Output",
  TaggingRules->{},
  CellChangeTimes->{
   3.9839356819065685`*^9, 3.9839357210736237`*^9, {3.9839357518631554`*^9, 
    3.9839358185484314`*^9}, {3.9839358524138947`*^9, 
    3.9839358671806297`*^9}, {3.983936005387207*^9, 3.983936014655554*^9}, {
-   3.9839370593230953`*^9, 3.9839370873552628`*^9}, 3.989114140340967*^9},
- CellLabel->"Out[36]=",
- CellID->365943220,ExpressionUUID->"751cf9ab-b0ff-e547-af57-ebb80241c909"]
+   3.9839370593230953`*^9, 3.9839370873552628`*^9}, 3.989114140340967*^9, 
+   3.990518204258772*^9},
+ CellLabel->"Out[249]=",
+ CellID->62525886,ExpressionUUID->"079b2029-c52e-044c-bcd7-b49d2be37a09"]
 }, Open  ]],
 
 Cell["Verification:", "Text",
@@ -1456,16 +1496,17 @@ Cell[BoxData[
      RowBox[{"Length", "@", "sols"}]}], "}"}]}], "]"}]], "Input",
  TaggingRules->{},
  CellChangeTimes->{{3.983937067707527*^9, 3.9839370834961643`*^9}},
- CellLabel->"In[37]:=",
+ CellLabel->"In[250]:=",
  CellID->659622520,ExpressionUUID->"8ee163ec-2d69-6d4e-8b8e-a04fbfee32aa"],
 
 Cell[BoxData[
  RowBox[{"{", 
-  RowBox[{"True", ",", "True", ",", "True"}], "}"}]], "Output",
+  RowBox[{"True", ",", "True"}], "}"}]], "Output",
  TaggingRules->{},
- CellChangeTimes->{3.9839370918489227`*^9, 3.9891141445853367`*^9},
- CellLabel->"Out[37]=",
- CellID->47698910,ExpressionUUID->"920995ca-e99d-5a4d-afe3-398fa1901e6a"]
+ CellChangeTimes->{3.9839370918489227`*^9, 3.9891141445853367`*^9, 
+  3.9905182116560173`*^9},
+ CellLabel->"Out[250]=",
+ CellID->23659079,ExpressionUUID->"14551811-31df-534d-ab00-326571996cda"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]],
@@ -1497,12 +1538,12 @@ Cell[BoxData[
  CellChangeTimes->{{3.9839393906045*^9, 3.9839394020605087`*^9}, {
   3.9839394605144176`*^9, 3.983939480815876*^9}, {3.989114152958435*^9, 
   3.9891141549218216`*^9}},
- CellLabel->"In[39]:=",
+ CellLabel->"In[251]:=",
  CellID->62026923,ExpressionUUID->"05882348-f90e-0e44-95cc-7d9041c26f5d"],
 
 Cell[BoxData[
  RowBox[{"{", 
-  RowBox[{
+  RowBox[{"{", 
    RowBox[{
     RowBox[{"u", "[", 
      RowBox[{"x", ",", "t"}], "]"}], "\[Rule]", 
@@ -1517,17 +1558,617 @@ Cell[BoxData[
            RowBox[{
             RowBox[{
              RowBox[{"-", "c"}], " ", "t"}], "+", "x"}]]}]]}], ")"}], " ", 
-      "\[Nu]"}]}]}], ",", 
+      "\[Nu]"}]}]}], "}"}], "}"}]], "Output",
+ TaggingRules->{},
+ CellChangeTimes->{{3.9839394040077724`*^9, 3.9839394163724422`*^9}, {
+   3.9839394619400444`*^9, 3.983939481441326*^9}, {3.989114148376047*^9, 
+   3.989114155439802*^9}, 3.9905182238236217`*^9},
+ CellLabel->"Out[251]=",
+ CellID->12289050,ExpressionUUID->"592012ab-e3f6-a446-ad7e-8fc88251e333"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ InterpretationBox[Cell[
+  "\t", "ExampleDelimiter",ExpressionUUID->
+   "6c3c7689-f2ea-ec46-a378-0b4930b797b8"],
+  $Line = 0; Null]], "ExampleDelimiter",
+ TaggingRules->{},
+ CellID->49606031,ExpressionUUID->"b1a76b8e-b8ea-cd40-b821-dbc45849533a"],
+
+Cell["Solve the fractional version of Burgers' equation:", "Text",
+ TaggingRules->{},
+ CellChangeTimes->{{3.9905182484454384`*^9, 3.9905182579259586`*^9}},
+ CellID->652288669,ExpressionUUID->"8287adfa-fa11-f544-80ce-650a7c786e4e"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"fb", "=", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"FractionalD", "[", 
+      RowBox[{
+       RowBox[{"u", "[", 
+        RowBox[{"x", ",", "t"}], "]"}], ",", 
+       RowBox[{"{", 
+        RowBox[{"t", ",", "\[Alpha]"}], "}"}]}], "]"}], "+", 
+     RowBox[{"\[Beta]", " ", 
+      SuperscriptBox[
+       RowBox[{"u", "[", 
+        RowBox[{"x", ",", "t"}], "]"}], "\[Delta]"], 
+      RowBox[{
+       SubscriptBox["\[PartialD]", "x"], 
+       RowBox[{"u", "[", 
+        RowBox[{"x", ",", "t"}], "]"}]}]}], "-", 
+     RowBox[{"\[Nu]", " ", 
+      RowBox[{
+       SubscriptBox["\[PartialD]", 
+        RowBox[{"x", ",", "x"}]], 
+       RowBox[{"u", "[", 
+        RowBox[{"x", ",", "t"}], "]"}]}]}]}], "==", 
+    RowBox[{"\[Gamma]", " ", 
+     RowBox[{"u", "[", 
+      RowBox[{"x", ",", "t"}], "]"}], 
+     RowBox[{"(", 
+      RowBox[{"1", "-", 
+       SuperscriptBox[
+        RowBox[{"u", "[", 
+         RowBox[{"x", ",", "t"}], "]"}], "2"]}], ")"}]}]}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{"GERFSolve", "[", 
+  RowBox[{
+   RowBox[{"fb", "/.", 
+    RowBox[{"\[Delta]", "->", "1"}]}], ",", 
+   RowBox[{"u", "[", 
+    RowBox[{"x", ",", "t"}], "]"}]}], "]"}]}], "Input",
+ TaggingRules->{},
+ CellChangeTimes->{{3.990518259974331*^9, 3.990518270722044*^9}},
+ CellLabel->"In[252]:=",
+ CellID->92676903,ExpressionUUID->"d3f6d2f4-e8c2-7b44-9e64-618906f5674f"],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"u", "[", 
+      RowBox[{"x", ",", "t"}], "]"}], "\[Rule]", 
+     RowBox[{
+      RowBox[{
+       RowBox[{"(", 
+        RowBox[{"1", "+", 
+         SuperscriptBox["\[ExponentialE]", 
+          RowBox[{
+           RowBox[{"x", " ", 
+            SubscriptBox["\[ScriptW]", "x"]}], "+", 
+           FractionBox[
+            RowBox[{
+             SuperscriptBox["t", "\[Alpha]"], " ", "\[Nu]", " ", 
+             SubsuperscriptBox["\[ScriptW]", "x", "2"]}], "\[Alpha]"]}]]}], 
+        ")"}], " ", 
+       SubscriptBox["\[ScriptCapitalA]", 
+        RowBox[{"-", "1"}]]}], "+", 
+      SubscriptBox["\[ScriptCapitalA]", "0"]}]}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"u", "[", 
+      RowBox[{"x", ",", "t"}], "]"}], "\[Rule]", 
+     RowBox[{
+      SubscriptBox["\[ScriptCapitalA]", "0"], "+", 
+      FractionBox[
+       RowBox[{"2", " ", "\[Nu]", " ", 
+        SubscriptBox["\[ScriptW]", "x"]}], 
+       RowBox[{
+        RowBox[{"(", 
+         RowBox[{"1", "+", 
+          SuperscriptBox["\[ExponentialE]", 
+           RowBox[{
+            RowBox[{"x", " ", 
+             SubscriptBox["\[ScriptW]", "x"]}], "+", 
+            FractionBox[
+             RowBox[{
+              SuperscriptBox["t", "\[Alpha]"], " ", 
+              RowBox[{"(", 
+               RowBox[{
+                RowBox[{
+                 RowBox[{"-", "\[Beta]"}], " ", 
+                 SubscriptBox["\[ScriptCapitalA]", "0"], " ", 
+                 SubscriptBox["\[ScriptW]", "x"]}], "-", 
+                RowBox[{"\[Nu]", " ", 
+                 SubsuperscriptBox["\[ScriptW]", "x", "2"]}]}], ")"}]}], 
+             "\[Alpha]"]}]]}], ")"}], " ", "\[Beta]"}]]}]}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"u", "[", 
+      RowBox[{"x", ",", "t"}], "]"}], "\[Rule]", 
+     RowBox[{
+      SubscriptBox["\[ScriptCapitalA]", "0"], "-", 
+      FractionBox[
+       SubscriptBox["\[ScriptCapitalA]", "0"], 
+       RowBox[{"1", "+", 
+        SuperscriptBox["\[ExponentialE]", 
+         RowBox[{
+          RowBox[{"x", " ", 
+           SubscriptBox["\[ScriptW]", "x"]}], "+", 
+          FractionBox[
+           RowBox[{
+            SuperscriptBox["t", "\[Alpha]"], " ", "\[Nu]", " ", 
+            SubsuperscriptBox["\[ScriptW]", "x", "2"]}], 
+           "\[Alpha]"]}]]}]]}]}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"u", "[", 
+      RowBox[{"x", ",", "t"}], "]"}], "\[Rule]", 
+     RowBox[{
+      FractionBox[
+       RowBox[{
+        RowBox[{"-", "1"}], "-", 
+        SubscriptBox["\[ScriptCapitalA]", "0"]}], 
+       RowBox[{"1", "+", 
+        SuperscriptBox["\[ExponentialE]", 
+         RowBox[{
+          RowBox[{"x", " ", 
+           SubscriptBox["\[ScriptW]", "x"]}], "+", 
+          FractionBox[
+           RowBox[{
+            SuperscriptBox["t", "\[Alpha]"], " ", "\[Nu]", " ", 
+            RowBox[{"(", 
+             RowBox[{
+              RowBox[{"-", "1"}], "+", 
+              SubscriptBox["\[ScriptCapitalA]", "0"]}], ")"}], " ", 
+            SubsuperscriptBox["\[ScriptW]", "x", "2"]}], 
+           RowBox[{"\[Alpha]", " ", 
+            RowBox[{"(", 
+             RowBox[{"1", "+", 
+              SubscriptBox["\[ScriptCapitalA]", "0"]}], ")"}]}]]}]]}]], "+", 
+      SubscriptBox["\[ScriptCapitalA]", "0"]}]}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"u", "[", 
+      RowBox[{"x", ",", "t"}], "]"}], "\[Rule]", 
+     RowBox[{
+      FractionBox[
+       RowBox[{"1", "-", 
+        SubscriptBox["\[ScriptCapitalA]", "0"]}], 
+       RowBox[{"1", "+", 
+        SuperscriptBox["\[ExponentialE]", 
+         RowBox[{
+          RowBox[{"x", " ", 
+           SubscriptBox["\[ScriptW]", "x"]}], "+", 
+          FractionBox[
+           RowBox[{
+            SuperscriptBox["t", "\[Alpha]"], " ", "\[Nu]", " ", 
+            RowBox[{"(", 
+             RowBox[{"1", "+", 
+              SubscriptBox["\[ScriptCapitalA]", "0"]}], ")"}], " ", 
+            SubsuperscriptBox["\[ScriptW]", "x", "2"]}], 
+           RowBox[{"\[Alpha]", " ", 
+            RowBox[{"(", 
+             RowBox[{
+              RowBox[{"-", "1"}], "+", 
+              SubscriptBox["\[ScriptCapitalA]", "0"]}], ")"}]}]]}]]}]], "+", 
+      SubscriptBox["\[ScriptCapitalA]", "0"]}]}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"u", "[", 
+      RowBox[{"x", ",", "t"}], "]"}], "\[Rule]", 
+     RowBox[{
+      RowBox[{"-", "1"}], "+", 
+      FractionBox["2", 
+       RowBox[{"1", "+", 
+        SuperscriptBox["\[ExponentialE]", 
+         RowBox[{"x", " ", 
+          SubscriptBox["\[ScriptW]", "x"]}]]}]]}]}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"u", "[", 
+      RowBox[{"x", ",", "t"}], "]"}], "\[Rule]", 
+     RowBox[{
+      RowBox[{"-", "1"}], "+", 
+      FractionBox["1", 
+       RowBox[{"1", "+", 
+        SuperscriptBox["\[ExponentialE]", 
+         RowBox[{
+          RowBox[{"x", " ", 
+           SubscriptBox["\[ScriptW]", "x"]}], "+", 
+          FractionBox[
+           RowBox[{
+            SuperscriptBox["t", "\[Alpha]"], " ", 
+            RowBox[{"(", 
+             RowBox[{
+              RowBox[{
+               RowBox[{"-", "\[Beta]"}], " ", 
+               SubscriptBox["\[ScriptW]", "x"]}], "+", 
+              RowBox[{"3", " ", "\[Nu]", " ", 
+               SubsuperscriptBox["\[ScriptW]", "x", "2"]}]}], ")"}]}], 
+           "\[Alpha]"]}]]}]]}]}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"u", "[", 
+      RowBox[{"x", ",", "t"}], "]"}], "\[Rule]", 
+     RowBox[{"-", 
+      FractionBox["1", 
+       RowBox[{"1", "+", 
+        SuperscriptBox["\[ExponentialE]", 
+         RowBox[{
+          RowBox[{"x", " ", 
+           SubscriptBox["\[ScriptW]", "x"]}], "+", 
+          FractionBox[
+           RowBox[{
+            SuperscriptBox["t", "\[Alpha]"], " ", 
+            RowBox[{"(", 
+             RowBox[{
+              RowBox[{"-", "\[Gamma]"}], "-", 
+              RowBox[{"\[Nu]", " ", 
+               SubsuperscriptBox["\[ScriptW]", "x", "2"]}]}], ")"}]}], 
+           "\[Alpha]"]}]]}]]}]}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"u", "[", 
+      RowBox[{"x", ",", "t"}], "]"}], "\[Rule]", 
+     FractionBox["1", 
+      RowBox[{"1", "+", 
+       SuperscriptBox["\[ExponentialE]", 
+        RowBox[{
+         RowBox[{"x", " ", 
+          SubscriptBox["\[ScriptW]", "x"]}], "+", 
+         FractionBox[
+          RowBox[{
+           SuperscriptBox["t", "\[Alpha]"], " ", 
+           RowBox[{"(", 
+            RowBox[{
+             RowBox[{"-", "\[Gamma]"}], "-", 
+             RowBox[{"\[Nu]", " ", 
+              SubsuperscriptBox["\[ScriptW]", "x", "2"]}]}], ")"}]}], 
+          "\[Alpha]"]}]]}]]}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"u", "[", 
+      RowBox[{"x", ",", "t"}], "]"}], "\[Rule]", 
+     RowBox[{"1", "-", 
+      FractionBox["2", 
+       RowBox[{"1", "+", 
+        SuperscriptBox["\[ExponentialE]", 
+         RowBox[{"x", " ", 
+          SubscriptBox["\[ScriptW]", "x"]}]]}]]}]}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"u", "[", 
+      RowBox[{"x", ",", "t"}], "]"}], "\[Rule]", 
+     RowBox[{"1", "-", 
+      FractionBox["1", 
+       RowBox[{"1", "+", 
+        SuperscriptBox["\[ExponentialE]", 
+         RowBox[{
+          RowBox[{"x", " ", 
+           SubscriptBox["\[ScriptW]", "x"]}], "+", 
+          FractionBox[
+           RowBox[{
+            SuperscriptBox["t", "\[Alpha]"], " ", 
+            SubscriptBox["\[ScriptW]", "x"], " ", 
+            RowBox[{"(", 
+             RowBox[{"\[Beta]", "+", 
+              RowBox[{"3", " ", "\[Nu]", " ", 
+               SubscriptBox["\[ScriptW]", "x"]}]}], ")"}]}], 
+           "\[Alpha]"]}]]}]]}]}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"u", "[", 
+      RowBox[{"x", ",", "t"}], "]"}], "\[Rule]", 
+     RowBox[{
+      FractionBox[
+       RowBox[{
+        RowBox[{"-", "1"}], "-", 
+        SubscriptBox["\[ScriptCapitalA]", "0"]}], 
+       RowBox[{"1", "+", 
+        SuperscriptBox["\[ExponentialE]", 
+         RowBox[{"x", " ", 
+          SubscriptBox["\[ScriptW]", "x"]}]]}]], "+", 
+      SubscriptBox["\[ScriptCapitalA]", "0"]}]}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"u", "[", 
+      RowBox[{"x", ",", "t"}], "]"}], "\[Rule]", 
+     RowBox[{
+      FractionBox[
+       RowBox[{"1", "-", 
+        SubscriptBox["\[ScriptCapitalA]", "0"]}], 
+       RowBox[{"1", "+", 
+        SuperscriptBox["\[ExponentialE]", 
+         RowBox[{"x", " ", 
+          SubscriptBox["\[ScriptW]", "x"]}]]}]], "+", 
+      SubscriptBox["\[ScriptCapitalA]", "0"]}]}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"u", "[", 
+      RowBox[{"x", ",", "t"}], "]"}], "\[Rule]", 
+     RowBox[{
+      SubscriptBox["\[ScriptCapitalA]", "0"], "-", 
+      FractionBox[
+       SubscriptBox["\[ScriptCapitalA]", "0"], 
+       RowBox[{"1", "+", 
+        SuperscriptBox["\[ExponentialE]", 
+         RowBox[{"x", " ", 
+          SubscriptBox["\[ScriptW]", "x"]}]]}]]}]}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"u", "[", 
+      RowBox[{"x", ",", "t"}], "]"}], "\[Rule]", 
+     RowBox[{
+      RowBox[{"-", "1"}], "+", 
+      FractionBox["2", 
+       RowBox[{"1", "+", 
+        SuperscriptBox["\[ExponentialE]", 
+         RowBox[{"x", " ", 
+          SubscriptBox["\[ScriptW]", "x"]}]]}]]}]}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"u", "[", 
+      RowBox[{"x", ",", "t"}], "]"}], "\[Rule]", 
+     RowBox[{
+      RowBox[{"-", "1"}], "+", 
+      FractionBox["1", 
+       RowBox[{"1", "+", 
+        SuperscriptBox["\[ExponentialE]", 
+         RowBox[{
+          RowBox[{"x", " ", 
+           SubscriptBox["\[ScriptW]", "x"]}], "+", 
+          FractionBox[
+           RowBox[{"3", " ", 
+            SuperscriptBox["t", "\[Alpha]"], " ", "\[Nu]", " ", 
+            SubsuperscriptBox["\[ScriptW]", "x", "2"]}], 
+           "\[Alpha]"]}]]}]]}]}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"u", "[", 
+      RowBox[{"x", ",", "t"}], "]"}], "\[Rule]", 
+     RowBox[{"-", 
+      FractionBox["1", 
+       RowBox[{"1", "+", 
+        SuperscriptBox["\[ExponentialE]", 
+         RowBox[{"x", " ", 
+          SubscriptBox["\[ScriptW]", "x"]}]]}]]}]}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"u", "[", 
+      RowBox[{"x", ",", "t"}], "]"}], "\[Rule]", 
+     FractionBox["1", 
+      RowBox[{"1", "+", 
+       SuperscriptBox["\[ExponentialE]", 
+        RowBox[{"x", " ", 
+         SubscriptBox["\[ScriptW]", "x"]}]]}]]}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"u", "[", 
+      RowBox[{"x", ",", "t"}], "]"}], "\[Rule]", 
+     RowBox[{"1", "-", 
+      FractionBox["2", 
+       RowBox[{"1", "+", 
+        SuperscriptBox["\[ExponentialE]", 
+         RowBox[{"x", " ", 
+          SubscriptBox["\[ScriptW]", "x"]}]]}]]}]}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"u", "[", 
+      RowBox[{"x", ",", "t"}], "]"}], "\[Rule]", 
+     RowBox[{"1", "-", 
+      FractionBox["1", 
+       RowBox[{"1", "+", 
+        SuperscriptBox["\[ExponentialE]", 
+         RowBox[{
+          RowBox[{"x", " ", 
+           SubscriptBox["\[ScriptW]", "x"]}], "+", 
+          FractionBox[
+           RowBox[{"3", " ", 
+            SuperscriptBox["t", "\[Alpha]"], " ", "\[Nu]", " ", 
+            SubsuperscriptBox["\[ScriptW]", "x", "2"]}], 
+           "\[Alpha]"]}]]}]]}]}], "}"}]}], "}"}]], "Output",
+ TaggingRules->{},
+ CellChangeTimes->{3.9905182763013515`*^9},
+ CellLabel->"Out[253]=",
+ CellID->313187501,ExpressionUUID->"c68dde04-e34a-9f4d-8137-ff65398907a2"]
+}, Open  ]]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ InterpretationBox[Cell[
+  "\t", "ExampleDelimiter",ExpressionUUID->
+   "945f3a96-5fee-0147-a984-53d402004dde"],
+  $Line = 0; Null]], "ExampleDelimiter",
+ TaggingRules->{},
+ CellID->196724350,ExpressionUUID->"f18e143b-aee9-0842-9c38-dc800a9589a7"],
+
+Cell[TextData[{
+ "Solve a nonlinear ODE using ",
+ Cell[BoxData[
+  ButtonBox["GERFSolve",
+   BaseStyle->"Link",
+   ButtonData->"paclet:Taggar/GERF/ref/GERFSolve"]], "InlineFormula",
+  ExpressionUUID->"3f03686d-5645-5f49-89f3-c07fe97d0dc3"],
+ " using a trivial wave transformation:"
+}], "ExampleText",
+ TaggingRules->{},
+ CellChangeTimes->{{3.9904018854431076`*^9, 3.9904018980072594`*^9}, {
+  3.9904021235630035`*^9, 3.9904021286659584`*^9}},
+ CellID->102207701,ExpressionUUID->"7af45f88-ed6f-f440-8b0d-50fcf182976d"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"GERFSolve", "[", 
+  RowBox[{
+   RowBox[{
+    RowBox[{
+     RowBox[{
+      RowBox[{"u", "''"}], "[", "\[Eta]", "]"}], "+", 
+     RowBox[{"3", 
+      SuperscriptBox[
+       RowBox[{"u", "[", "\[Eta]", "]"}], "2"]}], "-", 
+     RowBox[{"2", 
+      SuperscriptBox[
+       RowBox[{"u", "[", "\[Eta]", "]"}], "3"]}], "-", 
+     RowBox[{"u", "[", "\[Eta]", "]"}]}], "==", "0"}], ",", 
+   RowBox[{"u", "[", "\[Eta]", "]"}], ",", 
+   RowBox[{"\"\<WaveConstants\>\"", "->", 
+    RowBox[{"{", "1", "}"}]}]}], "]"}]], "Input",
+ TaggingRules->{},
+ CellChangeTimes->{{3.990401934907419*^9, 3.990402009462473*^9}},
+ CellLabel->"In[254]:=",
+ CellID->217465545,ExpressionUUID->"2e8ef702-e95e-8744-8f59-ab176e9f7a4c"],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"u", "[", "\[Eta]", "]"}], "\[Rule]", 
+     FractionBox["1", 
+      RowBox[{"1", "+", 
+       SuperscriptBox["\[ExponentialE]", "\[Eta]"]}]]}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"u", "[", "\[Eta]", "]"}], "\[Rule]", 
+     RowBox[{"1", "-", 
+      FractionBox["1", 
+       RowBox[{"1", "+", 
+        SuperscriptBox["\[ExponentialE]", "\[Eta]"]}]]}]}], "}"}]}], 
+  "}"}]], "Output",
+ TaggingRules->{},
+ CellChangeTimes->{{3.990401991106064*^9, 3.9904020099957333`*^9}, 
+   3.990517219608614*^9, 3.9905175488299084`*^9, 3.990518289398941*^9},
+ CellLabel->"Out[254]=",
+ CellID->33019801,ExpressionUUID->"0b2cd104-aa23-ef47-aa06-af2a1dd71fa8"]
+}, Open  ]]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ InterpretationBox[Cell[
+  "\t", "ExampleDelimiter",ExpressionUUID->
+   "8b8df063-d8c3-b04c-8455-17bd54736b01"],
+  $Line = 0; Null]], "ExampleDelimiter",
+ TaggingRules->{},
+ CellID->568533241,ExpressionUUID->"c52d5901-238b-eb4c-91aa-38aa5ae46c44"],
+
+Cell["Solve a system of equations:", "ExampleText",
+ TaggingRules->{},
+ CellChangeTimes->{{3.990515648103489*^9, 3.990515661924467*^9}, {
+  3.990518311497074*^9, 3.9905183122667255`*^9}},
+ CellID->106127259,ExpressionUUID->"a985aa5f-a1d9-3e4f-be42-1ec3d472bb1b"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"sys", "=", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{
+      RowBox[{
+       RowBox[{
+        SubscriptBox["\[PartialD]", 
+         RowBox[{"x", ",", "x"}]], 
+        RowBox[{"u", "[", 
+         RowBox[{"x", ",", "t"}], "]"}]}], "-", 
+       RowBox[{"u", "[", 
+        RowBox[{"x", ",", "t"}], "]"}], "+", 
+       RowBox[{"2", 
+        SuperscriptBox[
+         RowBox[{"v", "[", 
+          RowBox[{"x", ",", "t"}], "]"}], "3"]}]}], "==", "0"}], ",", 
+     RowBox[{
+      RowBox[{
+       RowBox[{
+        SubscriptBox["\[PartialD]", 
+         RowBox[{"x", ",", "x"}]], 
+        RowBox[{"v", "[", 
+         RowBox[{"x", ",", "t"}], "]"}]}], "-", 
+       RowBox[{"v", "[", 
+        RowBox[{"x", ",", "t"}], "]"}], "+", 
+       RowBox[{"2", 
+        SuperscriptBox[
+         RowBox[{"u", "[", 
+          RowBox[{"x", ",", "t"}], "]"}], "3"]}]}], "==", "0"}]}], "}"}]}], 
+  ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"GERFSolve", "[", 
+   RowBox[{"sys", ",", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"u", "[", 
+       RowBox[{"x", ",", "t"}], "]"}], ",", 
+      RowBox[{"v", "[", 
+       RowBox[{"x", ",", "t"}], "]"}]}], "}"}]}], "]"}], "[", 
+  RowBox[{"[", 
+   RowBox[{"-", "1"}], "]"}], "]"}]}], "Input",
+ TaggingRules->{},
+ CellChangeTimes->{{3.990515663587578*^9, 3.9905156685599174`*^9}, {
+  3.9905157459225273`*^9, 3.9905157484542484`*^9}, {3.9905183139023457`*^9, 
+  3.9905183318389835`*^9}},
+ CellLabel->"In[255]:=",
+ CellID->18797808,ExpressionUUID->"af930a36-ed49-6345-94a3-eebb2cea00d0"],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{
    RowBox[{
     RowBox[{"u", "[", 
      RowBox[{"x", ",", "t"}], "]"}], "\[Rule]", 
-    RowBox[{"c", "+", "\[Nu]"}]}]}], "}"}]], "Output",
+    RowBox[{
+     FractionBox[
+      SuperscriptBox[
+       RowBox[{"(", 
+        RowBox[{"-", "1"}], ")"}], 
+       RowBox[{"3", "/", "4"}]], 
+      SqrtBox["2"]], "-", 
+     FractionBox[
+      RowBox[{
+       SuperscriptBox[
+        RowBox[{"(", 
+         RowBox[{"-", "1"}], ")"}], 
+        RowBox[{"3", "/", "4"}]], " ", 
+       SqrtBox["2"]}], 
+      RowBox[{"1", "+", 
+       SuperscriptBox["\[ExponentialE]", 
+        RowBox[{
+         RowBox[{"\[ImaginaryI]", " ", 
+          SqrtBox["2"], " ", "x"}], "+", 
+         RowBox[{"t", " ", 
+          SubscriptBox["\[ScriptW]", "t"]}]}]]}]]}]}], ",", 
+   RowBox[{
+    RowBox[{"v", "[", 
+     RowBox[{"x", ",", "t"}], "]"}], "\[Rule]", 
+    RowBox[{
+     FractionBox[
+      SuperscriptBox[
+       RowBox[{"(", 
+        RowBox[{"-", "1"}], ")"}], 
+       RowBox[{"1", "/", "4"}]], 
+      SqrtBox["2"]], "-", 
+     FractionBox[
+      RowBox[{
+       SuperscriptBox[
+        RowBox[{"(", 
+         RowBox[{"-", "1"}], ")"}], 
+        RowBox[{"1", "/", "4"}]], " ", 
+       SqrtBox["2"]}], 
+      RowBox[{"1", "+", 
+       SuperscriptBox["\[ExponentialE]", 
+        RowBox[{
+         RowBox[{"\[ImaginaryI]", " ", 
+          SqrtBox["2"], " ", "x"}], "+", 
+         RowBox[{"t", " ", 
+          SubscriptBox["\[ScriptW]", "t"]}]}]]}]]}]}]}], "}"}]], "Output",
  TaggingRules->{},
- CellChangeTimes->{{3.9839394040077724`*^9, 3.9839394163724422`*^9}, {
-  3.9839394619400444`*^9, 3.983939481441326*^9}, {3.989114148376047*^9, 
-  3.989114155439802*^9}},
- CellLabel->"Out[39]=",
- CellID->264826488,ExpressionUUID->"78de5318-3cb6-f44a-bb2a-2a2b83ad009e"]
+ CellChangeTimes->{3.9905183339052277`*^9},
+ CellLabel->"Out[256]=",
+ CellID->195528445,ExpressionUUID->"90b7b76f-89ca-904f-b62a-0db4f823f48c"]
+}, Open  ]]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]],
@@ -1977,8 +2618,8 @@ Cell[BoxData[
         {
          TemplateBox[{
            CheckboxBox[
-           "Scientific and Medical Data & Computation", {
-            False, "Scientific and Medical Data & Computation"}], "\" \"", 
+           False, {False, "Scientific and Medical Data & Computation"}], 
+           "\" \"", 
            StyleBox[
            "\"Scientific and Medical Data & Computation\"", FontSize -> 12, 
             Editable -> False, StripOnInput -> False]},
@@ -1992,9 +2633,8 @@ Cell[BoxData[
           "RowDefault"]},
         {
          TemplateBox[{
-           CheckboxBox[
-           "Symbolic & Numeric Computation", {
-            False, "Symbolic & Numeric Computation"}], "\" \"", 
+           CheckboxBox[False, {False, "Symbolic & Numeric Computation"}], 
+           "\" \"", 
            StyleBox[
            "\"Symbolic & Numeric Computation\"", FontSize -> 12, Editable -> 
             False, StripOnInput -> False]},
@@ -2125,9 +2765,313 @@ Cell[BoxData[
 D3OYma5peckpaeCrIZKP1PKKPUA+YbotsDgqzKTsCQxi3UVyRpCSLV+\
 PwXkIlPiGCYK7Cwowu4Mn5exvtmJOR/MHd70lCD4AidngdWcTj1eE3NewiDnY27wHy4PQCF/\
 4nlKcnM1sewZ0MUi4JJ8fjELq2d8zZ7IK06eYLV9301GV"},
- CellChangeTimes->{{3.983940267011938*^9, 3.983940269894724*^9}},
+ CellChangeTimes->{{3.983940267011938*^9, 3.983940269894724*^9}, {
+  3.990518619108883*^9, 3.990518620235323*^9}},
  CellTags->{"Categories", "Categories-Checkboxes", "CheckboxCell"},
  CellID->492592839,ExpressionUUID->"98816850-fdf9-6c44-a5ce-f4dfe066ae4e"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[TextData[{
+ "Categories",
+ Cell[BoxData[
+  PaneSelectorBox[{True->
+   TemplateBox[{"Categories", 
+     Cell[
+      BoxData[
+       FrameBox[
+        Cell[
+        "Choose categories that best represent your paclet. These choices \
+determine which pages your paclet will appear on when published to the \
+repository.", "MoreInfoText"], Background -> GrayLevel[0.95], FrameMargins -> 
+        20, FrameStyle -> GrayLevel[0.9], RoundingRadius -> 5, ImageSize -> {
+          Scaled[0.65], Automatic}]], "MoreInfoText", Deletable -> True, 
+      CellTags -> {"SectionMoreInfoCategories"}, 
+      CellMargins -> {{66, 66}, {15, 15}}]},
+    "MoreInfoOpenerButtonTemplate"]}, Dynamic[
+    CurrentValue[
+     EvaluationNotebook[], {TaggingRules, "ResourceCreateNotebook"}]],
+   ImageSize->Automatic]],ExpressionUUID->
+  "2873af0b-0b07-6f42-a85a-b47afa12bd74"]
+}], "Subsection",
+ Editable->False,
+ Deletable->False,
+ TaggingRules->{"TemplateGroupName" -> "Categories"},
+ DefaultNewCellStyle->"Item",
+ CellTags->{"Categories", "TemplateCellGroup"},
+ CellID->146165173,ExpressionUUID->"00d2760e-9c8e-5c4d-9a29-92b476027709"],
+
+Cell[BoxData[
+ TagBox[GridBox[{
+    {
+     TagBox[GridBox[{
+        {
+         TemplateBox[{
+           CheckboxBox[False, {False, "Cloud & Deployment"}], "\" \"", 
+           StyleBox[
+            StyleBox[
+            "\"Cloud & Deployment\"", FontSize -> 12, Editable -> False, 
+             StripOnInput -> False], FontSize -> 12, Editable -> False, 
+            StripOnInput -> False]},
+          "RowDefault"]},
+        {
+         TemplateBox[{
+           CheckboxBox[False, {False, "External Interfaces & Connections"}], 
+           "\" \"", 
+           StyleBox[
+            StyleBox[
+            "\"External Interfaces & Connections\"", FontSize -> 12, Editable -> 
+             False, StripOnInput -> False], FontSize -> 12, Editable -> False,
+             StripOnInput -> False]},
+          "RowDefault"]},
+        {
+         TemplateBox[{
+           CheckboxBox[False, {False, "Graphs & Networks"}], "\" \"", 
+           StyleBox[
+            StyleBox[
+            "\"Graphs & Networks\"", FontSize -> 12, Editable -> False, 
+             StripOnInput -> False], FontSize -> 12, Editable -> False, 
+            StripOnInput -> False]},
+          "RowDefault"]},
+        {
+         TemplateBox[{
+           CheckboxBox[False, {False, "Machine Learning"}], "\" \"", 
+           StyleBox[
+            StyleBox[
+            "\"Machine Learning\"", FontSize -> 12, Editable -> False, 
+             StripOnInput -> False], FontSize -> 12, Editable -> False, 
+            StripOnInput -> False]},
+          "RowDefault"]},
+        {
+         TemplateBox[{
+           CheckboxBox[False, {False, "Sound & Video"}], "\" \"", 
+           StyleBox[
+            StyleBox[
+            "\"Sound & Video\"", FontSize -> 12, Editable -> False, 
+             StripOnInput -> False], FontSize -> 12, Editable -> False, 
+            StripOnInput -> False]},
+          "RowDefault"]},
+        {
+         TemplateBox[{
+           CheckboxBox[False, {False, "Time-Related Computation"}], "\" \"", 
+           StyleBox[
+            StyleBox[
+            "\"Time-Related Computation\"", FontSize -> 12, Editable -> False,
+              StripOnInput -> False], FontSize -> 12, Editable -> False, 
+            StripOnInput -> False]},
+          "RowDefault"]},
+        {
+         TemplateBox[{
+           CheckboxBox[False, {False, "Core Language & Structure"}], "\" \"", 
+           StyleBox[
+            StyleBox[
+            "\"Core Language & Structure\"", FontSize -> 12, Editable -> 
+             False, StripOnInput -> False], FontSize -> 12, Editable -> False,
+             StripOnInput -> False]},
+          "RowDefault"]},
+        {
+         TemplateBox[{
+           CheckboxBox[False, {False, "Financial Data & Computation"}], 
+           "\" \"", 
+           StyleBox[
+            StyleBox[
+            "\"Financial Data & Computation\"", FontSize -> 12, Editable -> 
+             False, StripOnInput -> False], FontSize -> 12, Editable -> False,
+             StripOnInput -> False]},
+          "RowDefault"]},
+        {
+         TemplateBox[{
+           CheckboxBox[
+           "Higher Mathematical Computation", {
+            False, "Higher Mathematical Computation"}], "\" \"", 
+           StyleBox[
+            StyleBox[
+            "\"Higher Mathematical Computation\"", FontSize -> 12, Editable -> 
+             False, StripOnInput -> False], FontSize -> 12, Editable -> False,
+             StripOnInput -> False]},
+          "RowDefault"]},
+        {
+         TemplateBox[{
+           CheckboxBox[False, {False, "Notebook Documents & Presentation"}], 
+           "\" \"", 
+           StyleBox[
+            StyleBox[
+            "\"Notebook Documents & Presentation\"", FontSize -> 12, Editable -> 
+             False, StripOnInput -> False], FontSize -> 12, Editable -> False,
+             StripOnInput -> False]},
+          "RowDefault"]},
+        {
+         TemplateBox[{
+           CheckboxBox[False, {False, "Strings & Text"}], "\" \"", 
+           StyleBox[
+            StyleBox[
+            "\"Strings & Text\"", FontSize -> 12, Editable -> False, 
+             StripOnInput -> False], FontSize -> 12, Editable -> False, 
+            StripOnInput -> False]},
+          "RowDefault"]},
+        {
+         TemplateBox[{
+           CheckboxBox[False, {False, "User Interface Construction"}], 
+           "\" \"", 
+           StyleBox[
+            StyleBox[
+            "\"User Interface Construction\"", FontSize -> 12, Editable -> 
+             False, StripOnInput -> False], FontSize -> 12, Editable -> False,
+             StripOnInput -> False]},
+          "RowDefault"]}
+       },
+       DefaultBaseStyle->"Column",
+       GridBoxAlignment->{"Columns" -> {{Left}}},
+       GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
+      "Column"], 
+     TagBox[GridBox[{
+        {
+         TemplateBox[{
+           CheckboxBox[False, {False, "Data Manipulation & Analysis"}], 
+           "\" \"", 
+           StyleBox[
+            StyleBox[
+            "\"Data Manipulation & Analysis\"", FontSize -> 12, Editable -> 
+             False, StripOnInput -> False], FontSize -> 12, Editable -> False,
+             StripOnInput -> False]},
+          "RowDefault"]},
+        {
+         TemplateBox[{
+           CheckboxBox[False, {False, "Geographic Data & Computation"}], 
+           "\" \"", 
+           StyleBox[
+            StyleBox[
+            "\"Geographic Data & Computation\"", FontSize -> 12, Editable -> 
+             False, StripOnInput -> False], FontSize -> 12, Editable -> False,
+             StripOnInput -> False]},
+          "RowDefault"]},
+        {
+         TemplateBox[{
+           CheckboxBox[False, {False, "Images"}], "\" \"", 
+           StyleBox[
+            StyleBox[
+            "\"Images\"", FontSize -> 12, Editable -> False, StripOnInput -> 
+             False], FontSize -> 12, Editable -> False, StripOnInput -> 
+            False]},
+          "RowDefault"]},
+        {
+         TemplateBox[{
+           CheckboxBox[
+           False, {False, "Scientific and Medical Data & Computation"}], 
+           "\" \"", 
+           StyleBox[
+            StyleBox[
+            "\"Scientific and Medical Data & Computation\"", FontSize -> 12, 
+             Editable -> False, StripOnInput -> False], FontSize -> 12, 
+            Editable -> False, StripOnInput -> False]},
+          "RowDefault"]},
+        {
+         TemplateBox[{
+           CheckboxBox[
+           "Symbolic & Numeric Computation", {
+            False, "Symbolic & Numeric Computation"}], "\" \"", 
+           StyleBox[
+            StyleBox[
+            "\"Symbolic & Numeric Computation\"", FontSize -> 12, Editable -> 
+             False, StripOnInput -> False], FontSize -> 12, Editable -> False,
+             StripOnInput -> False]},
+          "RowDefault"]},
+        {
+         TemplateBox[{
+           CheckboxBox[False, {False, "Visualization & Graphics"}], "\" \"", 
+           StyleBox[
+            StyleBox[
+            "\"Visualization & Graphics\"", FontSize -> 12, Editable -> False,
+              StripOnInput -> False], FontSize -> 12, Editable -> False, 
+            StripOnInput -> False]},
+          "RowDefault"]},
+        {
+         TemplateBox[{
+           CheckboxBox[False, {False, "Engineering Data & Computation"}], 
+           "\" \"", 
+           StyleBox[
+            StyleBox[
+            "\"Engineering Data & Computation\"", FontSize -> 12, Editable -> 
+             False, StripOnInput -> False], FontSize -> 12, Editable -> False,
+             StripOnInput -> False]},
+          "RowDefault"]},
+        {
+         TemplateBox[{
+           CheckboxBox[False, {False, "Geometry"}], "\" \"", 
+           StyleBox[
+            StyleBox[
+            "\"Geometry\"", FontSize -> 12, Editable -> False, StripOnInput -> 
+             False], FontSize -> 12, Editable -> False, StripOnInput -> 
+            False]},
+          "RowDefault"]},
+        {
+         TemplateBox[{
+           CheckboxBox[
+           False, {False, "Knowledge Representation & Natural Language"}], 
+           "\" \"", 
+           StyleBox[
+            StyleBox[
+            "\"Knowledge Representation & Natural Language\"", FontSize -> 12,
+              Editable -> False, StripOnInput -> False], FontSize -> 12, 
+            Editable -> False, StripOnInput -> False]},
+          "RowDefault"]},
+        {
+         TemplateBox[{
+           CheckboxBox[False, {False, "Social, Cultural & Linguistic Data"}], 
+           "\" \"", 
+           StyleBox[
+            StyleBox[
+            "\"Social, Cultural & Linguistic Data\"", FontSize -> 12, 
+             Editable -> False, StripOnInput -> False], FontSize -> 12, 
+            Editable -> False, StripOnInput -> False]},
+          "RowDefault"]},
+        {
+         TemplateBox[{
+           CheckboxBox[False, {False, "System Operation & Setup"}], "\" \"", 
+           StyleBox[
+            StyleBox[
+            "\"System Operation & Setup\"", FontSize -> 12, Editable -> False,
+              StripOnInput -> False], FontSize -> 12, Editable -> False, 
+            StripOnInput -> False]},
+          "RowDefault"]},
+        {"\<\"\"\>"}
+       },
+       DefaultBaseStyle->"Column",
+       GridBoxAlignment->{"Columns" -> {{Left}}},
+       GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
+      "Column"]}
+   },
+   AutoDelete->False,
+   BaseStyle->{"ControlStyle", ShowStringCharacters -> False},
+   GridBoxAlignment->{"Columns" -> {{Left}}, "Rows" -> {{Top}}},
+   GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}},
+   GridBoxSpacings->{"Columns" -> {{2}}}],
+  "Grid"]], "Output",
+ Editable->False,
+ Deletable->False,
+ TaggingRules->{
+  "CheckboxData" -> 
+   "OEM6eJy1l2tP2zAUhrWpsMIYY2zS2LgFb0KaWH9EFy6rBi2qGd/\
+d5DS1SOzIF0H49TtJKVe1ziT3W5rE7/\
+s4Pef4nPZyiy5QU6RAF3vW5Na06JtwBNEVxMNXunHKtaG7v3kyAhWcMTOCjBkesTQIZYZv4w8pUKJj\
+INPDz+MFw9e60bcpoECzz65/\
+yRvQw4ZuVj74i34iYSptHOwHh5CnsshAGDJZpZvHUhjKbyFcebh3FHPDBni1cMxSDfcPVqhRPO+\
+JjkCau4d0/aW8k2mHHDLDcI+C5zat9oUCbcHSQnPtk25rlpGT8xs5ujGg8PWgI/\
+BiyCLQKBBKISAq1bzC7jndnMS75ARkolg+4lFQ7X3/cfT4pN2e6eQk/\
+UhOysXlBrtgrqW68votP7xQdxI1SSdjCXjFWBxLOr3XyRmLRlxAcApMCS4SnxRrz8WdPAeERhxTmQ/\
+x32UiDs4grkrRfGPqR21X5w7eEyqtKAvTJY9B+qR890TZSRIQWmQDmeKeMBptBgqv5vQBd2ZbOVm/\
+kgueQasPWCwhnhflxjSTGnyXXFuW8ttJMT8ZlyCvWbsxzcTJt0lCqTDPmEgsJj4uRX0bGavAJ+\
+CXqS41ovFIJFgLMDREMud03pltVaNPOOaCiYjPvfBszTJyci6Xp24GRhU+mZoTUaf/\
+HnF0jT6xXB2qk7ZF/gh5nUKMkduHXIHGkj/JtC7DKEbBSWz7JD/4D98avWFXGhhIeRUcysiWfW/\
+ZbZw/kvXaGzrdnMTf8UQsI/xnENp0vNv94BRT0+IccdfE+\
+USuYedkXiOlskjKzV7AjdfJZfWpdI2zhxYaZ6+gl4OaxA0FY3OvZ880EyffNvmrMS/\
+vZ4dycNDVueA5Fjdn+LRo81xJZDcFXQ7xfE+\
+k4qBx0u3l1Qijl9rWyKpulOOvTG327OZqpYz5OY5rutQWBbUDDTgvvw2txhcf4zzcLOdi3ehKgfdW+\
+qClVRFcFDm24ecsSsH8AyVGTvI="},
+ CellChangeTimes->{{3.9905186249240417`*^9, 3.990518648024948*^9}},
+ CellTags->{"Categories", "Categories-Checkboxes", "CheckboxCell"},
+ CellID->44315947,ExpressionUUID->"928d684c-db37-3e4b-a372-2fa76115a0cc"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -3565,7 +4509,30 @@ Cell["Additional information about limitations, issues, etc.", "Text",
        SelectedNotebook[], All, CellContents, AutoScroll -> True]], 
    PassEventsDown -> False, PassEventsUp -> False},
  CellTags->{"DefaultContent", "TabNext"},
- CellID->3773185,ExpressionUUID->"34388d84-b77b-a24c-8bc7-a5de7915711b"]
+ CellID->3773185,ExpressionUUID->"34388d84-b77b-a24c-8bc7-a5de7915711b"],
+
+Cell[BoxData[
+ TemplateBox[{
+  "URLRead", "invhttp", "\"Could not resolve host: account.wolfram.com.\"", 2,
+    276, 52, 21913547844607413279, "Local"},
+  "MessageTemplate",
+  BaseStyle->"MSG"]], "Message",
+ TaggingRules->{},
+ CellChangeTimes->{3.9905195826021366`*^9},
+ CellLabel->"",
+ CellID->591140769,ExpressionUUID->"a8348dcb-5354-0e4f-8b39-f241971e75fb"],
+
+Cell[BoxData[
+ TemplateBox[{
+  "CloudConnect", "notauth", 
+   "\"Unable to authenticate with Wolfram Cloud server. Please try \
+authenticating again.\"", 2, 276, 53, 21913547844607413279, "Local"},
+  "MessageTemplate",
+  BaseStyle->"MSG"]], "Message",
+ TaggingRules->{},
+ CellChangeTimes->{3.9905195826334076`*^9},
+ CellLabel->"",
+ CellID->1267989,ExpressionUUID->"2beea819-46c3-8d40-8942-a59a68e08347"]
 }, Open  ]]
 }, Open  ]]
 },
@@ -3632,20 +4599,22 @@ Fu6DuJJG2H9mK2QZ3X1Y8rjKVdsLU11Qbnfn/Mae/TiO1RZHs2bny+6Vwq5Sfi8TnHKi+1+K4NOh"]\
   "AutoUpdate" -> True, 
   "PacletBuildData" -> {
    "LastBuiltArchive" -> 
-    "D:\\m\\Taggar\\GERF\\build\\Taggar__GERF-1.1.0.paclet", "FileHashes" -> 
+    "D:\\m\\Taggar\\GERF\\build\\Taggar__GERF-1.2.0.paclet", "FileHashes" -> 
     ByteArray[CompressedData["
-1:eJwBBAL7/SFib1JiAQAAAPcBAAA4Qzp4nHMU1g1WcslPLs1NzStJLMnMz9N3
+1:eJwBRAK7/SFib1JiAQAAADcCAAA4Qzp4nHMU0w1WcslPLs1NzStJLMnMz9N3
 zUvPySzO0PfMS0mt0I830EtOK3Zk0g1mC84vLUpOLWbxy89LBXJDEovSU0t8
-asrYNpxiVKvWDVbDZ05xajpIqjjeGI9ZzyZyqnlc366gG6xBjFl66al5eEx7
-q1EnoPv0iblusCV204JS01KLUvOSUwMS01OL9YMrc5Pyc4r13V2D3ILzc8pS
-9fKSkIz3cQsUclLutApC2PBK8F7/bdcWTd1gLew2BKcmFiVnQFxtCgnLVDwu
-/nv19wQbHkshUszDFzdsRg3Cb+paCnSDNYk0rzgTj3EpLQo/fXLPqusG6xJj
-XFpmak5KsV55Dh4jFU5bbJtTkcaoG2xCjJGZINo3tSQxJbEkEb/J+6MW+W42
-fJSsG6xHjMnw9GmEx8zgX0G/hDWesBBpZnlRZkmqXk5+cjYeMy9aT3pywa+d
-VTdYHYeZBak5OURmxnKrmoNnZjNyE2WYEQHDRJw2t+sJ3dbXDdYmaBhR2XvV
-jupn/FONuEgy0ByPgSsXujEe8/wajjtBYhpIoNCI3coVHriBCxgdfN6pRXmp
-OeDiADWp+dzeMv3SAnsXXoQ2hAhvQGJyTmqJZ15aPpqu52qfjArSQ2QRuhAi
-ghBdvol5mWmpxSX4k3bDru3KaVuelgMAacsNXmXp7F0=
+kg+1vH9W97daN1gNnznFqekgqeJ4Yzxm/dly9fLnOQllusEaxJill56ah8e0
+txp1ArpPn5jrBltiNy0oNS21KDUvOTUgMT21WD+4MjcpP6dY3901yC04P6cs
+VS8vCcl4n1fN79S1dx2IQthwxlVGyO52cYlusBZ2G4JTE4uSMyCuNoWEZSoe
+F7NxFK2fv1EklhTz8MVNw09Hl9c7jgBDQJNI84oz8Rh3aU3Ptrb7vHm6wbrE
+GJeWmZqTUqxXnoPHSIXTFtvmVKQx6gabEGNkJoj2TS1JTEksScRvspRoy5Eb
+sl42usF6xJgMT59GeMy8+afuhuFLDyEizSwvyixJ1cvJT87GY+ZF60lPLvi1
+s+oGq+MwsyA1J4fIzFhuVXPwzGxGbqIMMyJgWGLsT23/nFpl3WBtgoYRlb1X
+7ah+xj/ViIskA83xGGijfp75QloIE+4EiWkggUIjditXeOAGLmB08HmnFuWl
+5oCLA9Sk5jNpWu3z58Z7shHaECIwbZ55mSVo2nzfb5kY5aQRidCGEBGAagMX
+PEVoGr1ZAoRKwz+4ITQiRPihGkNLMnPQMptPpM2tU9sefDNC6EOI8AYkJuek
+lnjmpeWj6SrY+3TLklKNYoQuhIggRJdvYl5mWmpxCf4s+HK5oMmyL7elADSa
+VC6cBxAu
       "]]}},
 CreateCellID->True,
 DynamicEvaluationTimeout->60,
