@@ -1,3 +1,5 @@
+<a href="https://doi.org/10.5281/zenodo.20706333"><img src="https://zenodo.org/badge/1197217781.svg" alt="DOI"></a>
+
 <span style="float:left;padding-right:10"><img src="img/gerf.png" width="200"></span> is a Mathematica paclet that solves nonlinear integral order partial differential equations using the GERF (generalized exponential rational function) expansion technique. For more info on the method, see [10.1140/epjp/i2018-11984-1](https://doi.org/10.1140/epjp/i2018-11984-1). To learn more about the paclet, visit the homepage at [Wolfram repository](https://resources.wolframcloud.com/PacletRepository/resources/Taggar/GERF/).
 
 # Installation
