@@ -7,7 +7,7 @@ PacletObject[
     "Creator" -> "Naman T.",
     "License" -> "MIT",
     "PublisherID" -> "Taggar",
-    "Version" -> "1.2.0",
+    "Version" -> "1.2.1",
     "WolframVersion" -> "14.3+",
     "PrimaryContext" -> "Taggar`GERF`",
     "DocumentationURL" -> "https://resources.wolframcloud.com/PacletRepository/resources",
