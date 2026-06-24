@@ -57,6 +57,8 @@ A full demonstration is available on the Wolfram repository page of this paclet,
 
 **Version 1.2.0,** *15 June, 2026* &mdash; support for systems of equations.
 
+**Version 1.2.1,** *24 June, 2026* &mdash; additional examples added in documentation, and citation information also added.
+
 # Contributions
 
 are welcome.
