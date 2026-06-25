@@ -18,7 +18,7 @@ in your local or cloud notebook. Then, load it with
 
 If you decide to use the paclet for research, kindly consider citing it as follows:
 
-Taggar, N. (2026). GERF: A Mathematica paclet for the generalized exponential rational function method (Version 1.2.1). Zenodo. [https://doi.org/10.5281/zenodo.20706334](https://doi.org/10.5281/zenodo.20706334).
+Taggar, N. (2026). GERF: A Mathematica paclet for the generalized exponential rational function method (1.2.1). Zenodo. [https://doi.org/10.5281/zenodo.20706333](https://doi.org/10.5281/zenodo.20706333).
 
 # Usage
 
