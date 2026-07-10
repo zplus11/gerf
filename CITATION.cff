@@ -1,12 +1,39 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+title: >-
+  GERF: A Mathematica paclet for the generalized exponential
+  rational function method
+message: 'If you use this software, please cite it as below.'
+type: software
 authors:
   - family-names: Taggar
     given-names: Naman
-    orcid: https://orcid.org/0009-0004-6105-603X
-title: "GERF: A Mathematica paclet for the generalized exponential rational function method"
-version: 1.2.1
+    orcid: 'https://orcid.org/0009-0004-6105-603X'
+    email: namtgr@gmail.com
+    affiliation: 'University of Delhi, India'
 identifiers:
   - type: doi
     value: 10.5281/zenodo.20706333
-date-released: 2026-06-24
+repository-code: 'https://github.com/zplus11/gerf'
+url: >-
+  https://resources.wolframcloud.com/PacletRepository/resources/Taggar/GERF/
+abstract: >-
+  GERF is an open-source Wolfram Language paclet that
+  automates the Generalized Exponential Rational Function
+  (GERF) expansion method for obtaining exact solutions of
+  nonlinear partial differential equations, including
+  systems and conformable fractional equations. Given the
+  widespread adoption of the GERF method in the literature,
+  the package provides a reproducible and efficient
+  implementation that eliminates repetitive symbolic
+  computation.
+keywords:
+  - GERF method
+  - NLPDE
+  - exact solutions
+  - symbolic computation
+license: MIT
+version: 1.2.1
+date-released: '2026-06-24'
